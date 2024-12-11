@@ -25,7 +25,10 @@ Results-driven Software Professional with over a decade of experience in Enginee
   <tr>
   <td valign="top" width="50%">
 
-#### Cloud Infrastructure & DevSecOps  
+#### Cloud Infrastructure & DevSecOps
+
+----------
+
 <div align="center">  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -43,6 +46,9 @@ Results-driven Software Professional with over a decade of experience in Enginee
 <td valign="top" width="50%">
 
 #### Software Backend  
+
+----------
+
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
