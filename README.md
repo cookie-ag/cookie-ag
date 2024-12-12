@@ -64,6 +64,18 @@ Results-driven Software Professional with over a decade of experience in Enginee
 
 </tr>
 
-</table>  
+</table>
+
+### Personal Portfolio
+
+My personal portfolio showcases my coding proficiency and problem-solving skills through tangible code samples. These samples, which are my own original work, provide concrete evidence of my ability to write clean, efficient, and maintainable code. They go beyond theoretical discussions or hypothetical scenarios, offering a direct look at my coding style and capabilities.
+
+| Name    | Repository | Skill Type | Technologies |
+| -------- | ------- |------- |------- |
+| Use Terraform to provision an AWS Kubernetes cluster with an NGINX ingress controller to manage external access to your web application's backend API server | TBA  | Cloud Engineering (CE) | Infrastructure as Code (Terraform), Amazon Web Services (AWS)|
+| Build a FastAPI/Node.js web app with RESTful APIs: one for webhook/callback, one for basic CRUD operations on a simple database (e.g., PostgreSQL).  | TBA  | Software Engineering (SE) | JavaScript, PostgreSQL, API Design |
+| Demonstrate DevSecOps proficiency for setting up Continuous Integration (CI), Continuous Delivery (CD1), and Continuous Deployment (CD2) Pipelines using Github Actions focused on AWS Cloud  | TBA  | Developer Security & Operations (DevSecOps) | Infrastructure as Code (Terraform), YAML (Github Actions), Amazon Web Services (AWS) |
+| Set up Prometheus to collect metrics, visualize them with a Grafana dashboard, and configure alerts for critical thresholds.  | TBA  | Site Reliability Engineering (SRE) | Infrastructure as Code (Terraform), Grafana Cloud and Prometheus |
+
 
 <br/>
