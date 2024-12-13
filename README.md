@@ -72,10 +72,9 @@ My personal portfolio showcases my coding proficiency and problem-solving skills
 
 | Name    | Repository | Skill Type | Technologies |
 | -------- | ------- |------- |------- |
-| Use Terraform to provision an AWS Kubernetes cluster with an NGINX ingress controller to manage external access to your web application's backend API server | Code Sample (On Request)  | Cloud Engineering (CE) | Infrastructure as Code (Terraform), Amazon Web Services (AWS)|
+| - Use Terraform to provision an AWS Kubernetes cluster with an NGINX ingress controller to manage external access to your web application's backend API server. </br> - Set up Prometheus to collect metrics, visualize them with a Grafana dashboard, and configure alerts for critical thresholds. | Code Sample (On Request)  | Cloud Engineering (CE), and Site Reliability Engineering (SRE) | Infrastructure as Code (Terraform), Amazon Web Services (AWS), Grafana Cloud and Prometheus|
 | Build a FastAPI/Node.js web app with RESTful APIs: one for webhook/callback, one for basic CRUD operations on a simple database (e.g., PostgreSQL).  | Code Sample (On Request)  | Software Engineering (SE) | JavaScript, PostgreSQL, API Design |
 | Demonstrate DevSecOps proficiency for setting up Continuous Integration (CI), Continuous Delivery (CD1), and Continuous Deployment (CD2) Pipelines using Github Actions focused on AWS Cloud  | Code Sample (On Request)  | Developer Security & Operations (DevSecOps) | Infrastructure as Code (Terraform), YAML (Github Actions), Amazon Web Services (AWS) |
-| Set up Prometheus to collect metrics, visualize them with a Grafana dashboard, and configure alerts for critical thresholds.  | Code Sample (On Request)  | Site Reliability Engineering (SRE) | Infrastructure as Code (Terraform), Grafana Cloud and Prometheus |
 
 
 <br/>
