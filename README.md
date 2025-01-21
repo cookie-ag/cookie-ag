@@ -21,6 +21,12 @@ Based in  🇸🇬 Singapore
 
 * **Contributing to Product Vision and Strategy**: Collaborating with stakeholders to define product roadmaps and translate business requirements into technical solutions.
 
+
+#### 🔰 Tech Stack
+
+![alt text](./diagrams/tech-stack.png)
+
+
 #### 🔰 Beyond the Code:
 
 Outside of work, I'm a firm believer in continuous learning and cultural exploration. I cherish time with my family, love to travel, and immerse myself in different cultures, which broadens my perspective and fuels my creativity.
