@@ -5,7 +5,7 @@ Based in 🇸🇬 Singapore, I'm a seasoned software engineer with over a decade
 
 #### 🔰 Tech Stack
 
-![alt text](./diagrams/tech-stack-1.png)
+![alt text](./diagrams/tech-stack-2.png)
 
 #### 🔰 Beyond the Code:
 
