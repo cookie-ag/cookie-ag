@@ -1,9 +1,9 @@
 
 ![alt text](./diagrams/1738138406395.jpeg)
 
-# 🏠 Introduction
+# 🏠 About
 
-Based in 🇸🇬 Singapore, I'm a seasoned software engineer with over a decade of experience building and deploying robust, secure systems. I'm particularly passionate about the emerging field of Agentic AI and its potential to revolutionize IT Operations.
+Driven by a curious mind, I leverage a software-centric approach combined with rigorous research to dissect and solve complex problems. I am dedicated to making high-quality contributions that bridge the gap between theory and practical impact.
 
 # 🚀 My Tech Stack
 
