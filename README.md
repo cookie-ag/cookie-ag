@@ -1,5 +1,5 @@
 
-![alt text](./diagrams/1738138406395.jpeg)
+![alt text](./diagrams/1738138406395.png)
 
 # 🏠 About
 
